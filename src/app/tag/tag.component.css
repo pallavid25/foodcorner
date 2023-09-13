@@ -1,0 +1,18 @@
+div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+div a{
+    background-color: #bbb6b6;
+    padding: .3rem 1rem;
+    margin: .2rem .15rem;
+    border-radius: 10rem;
+    color: blue;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+div a:hover{
+    opacity: .6;
+    color: red;
+}
